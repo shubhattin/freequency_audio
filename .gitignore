@@ -13,5 +13,6 @@ vite.config.ts.timestamp-*
 .netlify
 
 src/db/scripts/out/
+a.html
 
 **/a.ts
